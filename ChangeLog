@@ -1,0 +1,500 @@
+------------------------------------------------------------------------
+r90 | joe | 2006-05-09 10:28:31 +1000 (Tue, 09 May 2006) | 2 lines
+
+Further fix when sound is unavailable.
+
+------------------------------------------------------------------------
+r89 | joe | 2006-05-09 10:25:44 +1000 (Tue, 09 May 2006) | 4 lines
+
+Click sounds now play on keyboard presses too.
+Rework sound initialisation logic to better handle the case where sound is
+not available.
+
+------------------------------------------------------------------------
+r88 | joe | 2006-05-09 10:16:37 +1000 (Tue, 09 May 2006) | 4 lines
+
+Fix resizing of PicButtons.
+Fixed rectangle bounds test to prevent sizing bugs from causing crashes.
+Prevent wanton spinner resizing.
+
+------------------------------------------------------------------------
+r87 | joe | 2006-05-05 07:33:49 +1000 (Fri, 05 May 2006) | 6 lines
+
+Fix crash on empty high scores menu.
+Fix divide-by-zero error in getMulExpr.
+Remove -lgettextsrc hack from configure.in.
+Normalise sounds.
+Ensure that POTFILES gets distributed.
+
+------------------------------------------------------------------------
+r86 | joe | 2006-03-28 20:33:17 +1000 (Tue, 28 Mar 2006) | 2 lines
+
+Forgot to save some changes...
+
+------------------------------------------------------------------------
+r85 | joe | 2006-03-28 20:32:46 +1000 (Tue, 28 Mar 2006) | 2 lines
+
+Only apply video and sound settings when they've changed.
+
+------------------------------------------------------------------------
+r84 | joe | 2006-03-28 19:52:48 +1000 (Tue, 28 Mar 2006) | 2 lines
+
+Added missing png files.
+
+------------------------------------------------------------------------
+r83 | joe | 2006-03-27 17:50:22 +1000 (Mon, 27 Mar 2006) | 2 lines
+
+Add missing files.
+
+------------------------------------------------------------------------
+r82 | joe | 2006-02-01 17:57:02 +1100 (Wed, 01 Feb 2006) | 3 lines
+
+Added clicking sound to menus.
+Fixed default level bounds.
+
+------------------------------------------------------------------------
+r81 | joe | 2006-02-01 12:07:45 +1100 (Wed, 01 Feb 2006) | 2 lines
+
+Make buttons more prettier.
+
+------------------------------------------------------------------------
+r80 | joe | 2006-01-30 18:11:30 +1100 (Mon, 30 Jan 2006) | 3 lines
+
+Cleaned up memory management in menus.
+Refactored level configuration and configuration dialogs.
+
+------------------------------------------------------------------------
+r79 | joe | 2006-01-29 16:40:39 +1100 (Sun, 29 Jan 2006) | 3 lines
+
+Fix memory leak of AnimationState.
+Bump to 0.1.94
+
+------------------------------------------------------------------------
+r78 | joe | 2006-01-29 15:09:50 +1100 (Sun, 29 Jan 2006) | 2 lines
+
+Add configurable sound settings.
+
+------------------------------------------------------------------------
+r77 | joe | 2006-01-29 13:02:23 +1100 (Sun, 29 Jan 2006) | 4 lines
+
+Added sounds.
+Cleaned up multi-dimensional arrays in Animation.cpp
+Cleaned up deprecated code in FileSys.cpp
+
+------------------------------------------------------------------------
+r76 | joe | 2005-11-30 19:33:07 +1100 (Wed, 30 Nov 2005) | 3 lines
+
+Minor build/dist fixes.
+Really properly clear the event queue at the start of each level.
+
+------------------------------------------------------------------------
+r75 | joe | 2005-11-30 19:19:27 +1100 (Wed, 30 Nov 2005) | 2 lines
+
+Added missing pictures.
+
+------------------------------------------------------------------------
+r74 | joe | 2005-11-30 11:29:49 +1100 (Wed, 30 Nov 2005) | 2 lines
+
+Cleaned up some debug printfs.
+
+------------------------------------------------------------------------
+r73 | joe | 2005-11-30 11:24:35 +1100 (Wed, 30 Nov 2005) | 2 lines
+
+Reverted muncher_color.sh to a good version.
+
+------------------------------------------------------------------------
+r72 | joe | 2005-11-30 11:21:58 +1100 (Wed, 30 Nov 2005) | 4 lines
+
+Added delay at beginning/end of each level.
+Properly clear the key queue at beginning/end of each level.
+Remove all references to spuzzzzzzz.c-f-h.net.
+
+------------------------------------------------------------------------
+r71 | joe | 2005-11-30 08:45:33 +1100 (Wed, 30 Nov 2005) | 2 lines
+
+Fixed eater eating animations.
+
+------------------------------------------------------------------------
+r70 | joe | 2005-11-29 20:53:52 +1100 (Tue, 29 Nov 2005) | 2 lines
+
+Added eater animation.
+
+------------------------------------------------------------------------
+r69 | joe | 2005-11-29 20:30:45 +1100 (Tue, 29 Nov 2005) | 2 lines
+
+Removed extra png files.
+
+------------------------------------------------------------------------
+r68 | joe | 2005-11-29 18:32:11 +1100 (Tue, 29 Nov 2005) | 3 lines
+
+Allow spinners to wrap.
+Added new smarty animation.
+
+------------------------------------------------------------------------
+r67 | joe | 2005-09-10 10:16:30 +1000 (Sat, 10 Sep 2005) | 2 lines
+
+Restructured ButtonGroup so keyboard focus-changes are properly handled.
+
+------------------------------------------------------------------------
+r66 | joe | 2005-09-07 13:10:25 +1000 (Wed, 07 Sep 2005) | 2 lines
+
+Build fixes.
+
+------------------------------------------------------------------------
+r65 | joe | 2005-09-07 13:01:01 +1000 (Wed, 07 Sep 2005) | 2 lines
+
+Build fixes.
+
+------------------------------------------------------------------------
+r64 | joe | 2005-09-07 13:00:35 +1000 (Wed, 07 Sep 2005) | 2 lines
+
+Build fixes.
+
+------------------------------------------------------------------------
+r63 | joe | 2005-09-07 12:29:45 +1000 (Wed, 07 Sep 2005) | 2 lines
+
+Version bump.
+
+------------------------------------------------------------------------
+r62 | joe | 2005-09-07 12:24:51 +1000 (Wed, 07 Sep 2005) | 2 lines
+
+Added troggle configuration menu.
+
+------------------------------------------------------------------------
+r61 | joe | 2005-09-06 21:35:38 +1000 (Tue, 06 Sep 2005) | 2 lines
+
+Added new fraidy animation.
+
+------------------------------------------------------------------------
+r60 | joe | 2005-09-06 17:02:07 +1000 (Tue, 06 Sep 2005) | 3 lines
+
+Add diaper animation.
+Reset the joystick timer on returning to the neutral position.
+
+------------------------------------------------------------------------
+r59 | joe | 2005-09-06 12:13:07 +1000 (Tue, 06 Sep 2005) | 2 lines
+
+Missing files.
+
+------------------------------------------------------------------------
+r58 | joe | 2005-09-06 12:04:53 +1000 (Tue, 06 Sep 2005) | 3 lines
+
+Added input configuration menu.
+Fixed small positioning bugs in Column2.
+
+------------------------------------------------------------------------
+r57 | joe | 2005-09-04 14:46:47 +1000 (Sun, 04 Sep 2005) | 2 lines
+
+Finished integrating the new event-handling stuff.
+
+------------------------------------------------------------------------
+r56 | joe | 2005-09-03 13:18:23 +1000 (Sat, 03 Sep 2005) | 2 lines
+
+Refactored code to integrate the new event-handling class (game is BROKEN).
+
+------------------------------------------------------------------------
+r55 | joe | 2005-09-01 22:29:23 +1000 (Thu, 01 Sep 2005) | 3 lines
+
+Convert HYPHEN-MINUS to a real MINUS sign.
+Updated reggie animation.
+
+------------------------------------------------------------------------
+r54 | joe | 2005-08-20 20:31:54 +1000 (Sat, 20 Aug 2005) | 2 lines
+
+Changed troggle behaviour to add more/new Troggles gradually throughout the game.
+
+------------------------------------------------------------------------
+r53 | joe | 2005-08-20 19:06:28 +1000 (Sat, 20 Aug 2005) | 2 lines
+
+Fixed error reporting bug with prime numbers in MultipleLevel.
+
+------------------------------------------------------------------------
+r52 | joe | 2005-08-18 09:59:54 +1000 (Thu, 18 Aug 2005) | 1 line
+
+
+------------------------------------------------------------------------
+r51 | joe | 2005-08-18 09:52:47 +1000 (Thu, 18 Aug 2005) | 3 lines
+
+Removed old files.
+Update the version info, ChangeLog and translation files.
+
+------------------------------------------------------------------------
+r50 | joe | 2005-08-18 09:36:24 +1000 (Thu, 18 Aug 2005) | 4 lines
+
+Fixed incorrect plurals in messages from PrimeLevel.
+Added winning animation/dialog for MultiPlayerGame.
+Fixed gui redrawing bug.
+
+------------------------------------------------------------------------
+r49 | joe | 2005-08-17 22:12:49 +1000 (Wed, 17 Aug 2005) | 2 lines
+
+Muncher in SinglePlayerGame had the wrong number of lives.
+
+------------------------------------------------------------------------
+r48 | joe | 2005-08-17 10:32:30 +1000 (Wed, 17 Aug 2005) | 4 lines
+
+Fix drawing/updating bugs.
+Add maximum scores to multiplayer games.
+Fix level reset bug in PrimeLevel.
+
+------------------------------------------------------------------------
+r47 | joe | 2005-08-15 11:49:30 +1000 (Mon, 15 Aug 2005) | 2 lines
+
+Another missing file.
+
+------------------------------------------------------------------------
+r46 | joe | 2005-08-15 11:47:03 +1000 (Mon, 15 Aug 2005) | 2 lines
+
+Added missing animation pngs.
+
+------------------------------------------------------------------------
+r45 | joe | 2005-08-15 09:45:26 +1000 (Mon, 15 Aug 2005) | 2 lines
+
+Added missing files to svn.
+
+------------------------------------------------------------------------
+r44 | joe | 2005-08-14 23:36:16 +1000 (Sun, 14 Aug 2005) | 2 lines
+
+Added new trogwarning file.
+
+------------------------------------------------------------------------
+r43 | joe | 2005-08-14 23:07:23 +1000 (Sun, 14 Aug 2005) | 3 lines
+
+Added muncher appearing animations.
+Added multiplayer (same computer) support.
+
+------------------------------------------------------------------------
+r42 | joe | 2005-08-13 19:47:09 +1000 (Sat, 13 Aug 2005) | 2 lines
+
+Fix segfault due to a premature free().
+
+------------------------------------------------------------------------
+r41 | joe | 2005-08-13 10:05:16 +1000 (Sat, 13 Aug 2005) | 2 lines
+
+Added blue muncher animations and automatic rendering of svg files.
+
+------------------------------------------------------------------------
+r40 | joe | 2005-08-13 09:03:57 +1000 (Sat, 13 Aug 2005) | 2 lines
+
+Added the final muncher animations and cleaned out all the old files.
+
+------------------------------------------------------------------------
+r39 | joe | 2005-08-11 11:00:09 +1000 (Thu, 11 Aug 2005) | 2 lines
+
+Fix bootstrap, configure and build on FreeBSD.
+
+------------------------------------------------------------------------
+r38 | joe | 2005-08-11 09:51:35 +1000 (Thu, 11 Aug 2005) | 2 lines
+
+Added animation files that were previously missing.
+
+------------------------------------------------------------------------
+r37 | joe | 2005-08-02 23:00:46 +1000 (Tue, 02 Aug 2005) | 4 lines
+
+Updated (and starting to use) the new muncher animations.
+Refactored the Game code to separate the Troggle code from SinglePlayerGame.
+I can then reuse the TroggleGame code in the local (one computer) multiplayer.
+
+------------------------------------------------------------------------
+r36 | joe | 2005-07-29 22:31:29 +1000 (Fri, 29 Jul 2005) | 2 lines
+
+Updated the changelog and the translations.
+
+------------------------------------------------------------------------
+r35 | joe | 2005-07-29 17:38:41 +1000 (Fri, 29 Jul 2005) | 2 lines
+
+Fix bugs with the new resolution-changer.
+
+------------------------------------------------------------------------
+r34 | joe | 2005-07-29 17:16:32 +1000 (Fri, 29 Jul 2005) | 4 lines
+
+Updated the High Score dialog to use the new packing methods.
+Fixed the resolution choice to offer more sensible options on X servers
+that support few resolutions.
+
+------------------------------------------------------------------------
+r33 | joe | 2005-07-28 22:41:02 +1000 (Thu, 28 Jul 2005) | 3 lines
+
+Remove lots of debugging printfs.
+Update the manu background.
+
+------------------------------------------------------------------------
+r32 | joe | 2005-07-28 21:53:00 +1000 (Thu, 28 Jul 2005) | 2 lines
+
+Fixed a couple memory leaks and an invalid pointer reference.
+
+------------------------------------------------------------------------
+r31 | joe | 2005-07-28 21:08:22 +1000 (Thu, 28 Jul 2005) | 2 lines
+
+Speed up initial board drawing significantly.
+
+------------------------------------------------------------------------
+r30 | joe | 2005-07-28 20:01:45 +1000 (Thu, 28 Jul 2005) | 3 lines
+
+Improved the speed at which square backgrounds are drawn; now no alpha
+blending is necessary.
+
+------------------------------------------------------------------------
+r29 | joe | 2005-07-27 21:41:03 +1000 (Wed, 27 Jul 2005) | 3 lines
+
+Work around the typo in old versions of libsdl-gfx that had filledpieColor
+instead of filledPieColor.
+
+------------------------------------------------------------------------
+r28 | joe | 2005-07-27 21:04:46 +1000 (Wed, 27 Jul 2005) | 2 lines
+
+Added missing menu background.
+
+------------------------------------------------------------------------
+r27 | joe | 2005-07-27 20:43:21 +1000 (Wed, 27 Jul 2005) | 3 lines
+
+Fixed colour depth changes in-game (the game didn't get the new screen).
+Made the message go through the Menu::drawButton() code.
+
+------------------------------------------------------------------------
+r26 | joe | 2005-07-27 09:53:45 +1000 (Wed, 27 Jul 2005) | 4 lines
+
+Added Container::PACK_MIN_CENTER.
+Redid all the menus to make use of the new Container features.
+Fixed font/animation resizing after an in-game resolution change.
+
+------------------------------------------------------------------------
+r25 | joe | 2005-07-26 23:07:29 +1000 (Tue, 26 Jul 2005) | 6 lines
+
+Changed the PicButton API to allow for manually specifying focused/highlighted
+images.
+Restructured the packing functions in Container and children.
+Added Container::PACK_LEADING and Container::PACK_TRAILING.
+Added more bounds-error-checking in Menu:: drawing functions.
+
+------------------------------------------------------------------------
+r24 | joe | 2005-07-25 22:13:23 +1000 (Mon, 25 Jul 2005) | 2 lines
+
+Add in-game background and fix transparency problems.
+
+------------------------------------------------------------------------
+r23 | joe | 2005-07-24 19:24:40 +1000 (Sun, 24 Jul 2005) | 5 lines
+
+Remove the logo from menus and add a background.
+Fix issues with drawing the background.
+Fix multiple screen refreshes on resuming the game.
+Fix issues with changing the root widget in the middle of the event loop.
+
+------------------------------------------------------------------------
+r22 | joe | 2005-07-24 11:30:14 +1000 (Sun, 24 Jul 2005) | 2 lines
+
+Added menu background and updated muncher image.
+
+------------------------------------------------------------------------
+r21 | joe | 2005-06-21 17:25:13 +1000 (Tue, 21 Jun 2005) | 2 lines
+
+Release 0.1.90
+
+------------------------------------------------------------------------
+r20 | joe | 2005-06-21 17:03:16 +1000 (Tue, 21 Jun 2005) | 4 lines
+
+Fixed configure.in problem.
+Fixed resolution not resetting when game exits.
+Fixed problem in the level config spinners.
+
+------------------------------------------------------------------------
+r19 | joe | 2005-06-21 16:39:08 +1000 (Tue, 21 Jun 2005) | 2 lines
+
+Small compile and animation fixes for release 0.1.90
+
+------------------------------------------------------------------------
+r18 | joe | 2005-06-21 15:07:17 +1000 (Tue, 21 Jun 2005) | 1 line
+
+
+------------------------------------------------------------------------
+r17 | joe | 2005-06-21 14:56:13 +1000 (Tue, 21 Jun 2005) | 2 lines
+
+Fixed various small bugs.
+
+------------------------------------------------------------------------
+r16 | joe | 2005-06-21 11:43:38 +1000 (Tue, 21 Jun 2005) | 2 lines
+
+Removed old animation files.
+
+------------------------------------------------------------------------
+r15 | joe | 2005-06-21 11:42:05 +1000 (Tue, 21 Jun 2005) | 3 lines
+
+Added async loading of animations. Removed Animation link files and added
+Animation config files.
+
+------------------------------------------------------------------------
+r14 | joe | 2005-06-19 23:03:22 +1000 (Sun, 19 Jun 2005) | 3 lines
+
+Added high scores support.
+Fixed munching to go through the new Level/GC paths.
+
+------------------------------------------------------------------------
+r13 | joe | 2005-06-19 17:56:23 +1000 (Sun, 19 Jun 2005) | 2 lines
+
+Added GUI testing script/program.
+
+------------------------------------------------------------------------
+r12 | joe | 2005-06-19 17:25:44 +1000 (Sun, 19 Jun 2005) | 2 lines
+
+Added GPL copyright lines.
+
+------------------------------------------------------------------------
+r11 | joe | 2005-06-19 16:38:30 +1000 (Sun, 19 Jun 2005) | 3 lines
+
+Added EqualityLevel and InequalityLevel. Moved more of the *Level code into
+parent classes.
+
+------------------------------------------------------------------------
+r10 | joe | 2005-06-18 12:44:39 +1000 (Sat, 18 Jun 2005) | 2 lines
+
+Added MultipleLevel
+
+------------------------------------------------------------------------
+r9 | joe | 2005-06-18 11:38:03 +1000 (Sat, 18 Jun 2005) | 3 lines
+
+Added better configuration file support. Added FactorLevel. Fixed a small
+bug with Spinner redrawing.
+
+------------------------------------------------------------------------
+r8 | joe | 2005-06-17 08:54:14 +1000 (Fri, 17 Jun 2005) | 2 lines
+
+Fixed bugs in ButtonGroup.
+
+------------------------------------------------------------------------
+r7 | joe | 2005-06-16 18:59:18 +1000 (Thu, 16 Jun 2005) | 4 lines
+
+Fixed all remaining known gui bugs.
+Optimised gui performance.
+Fixed disappearing Troggle bug.
+
+------------------------------------------------------------------------
+r6 | joe | 2005-06-16 09:28:24 +1000 (Thu, 16 Jun 2005) | 2 lines
+
+Compiling fixes, removed unnecessary files from repo.
+
+------------------------------------------------------------------------
+r5 | joe | 2005-06-16 09:15:21 +1000 (Thu, 16 Jun 2005) | 2 lines
+
+Added missing file src/gui/Spinner.cpp
+
+------------------------------------------------------------------------
+r4 | joe | 2005-06-15 23:03:41 +1000 (Wed, 15 Jun 2005) | 2 lines
+
+Fixed Spinner bugs, optimised drawing/resizing. Some drawing/resizing bugs still exist.
+
+------------------------------------------------------------------------
+r3 | joe | 2005-06-13 21:22:25 +1000 (Mon, 13 Jun 2005) | 3 lines
+
+Fix building of the gui libs and clean up event handling within the gui.
+Spinner is still buggy, but arbitrary Spinner<T> templates are supported.
+
+------------------------------------------------------------------------
+r2 | joe | 2005-06-13 10:39:46 +1000 (Mon, 13 Jun 2005) | 2 lines
+
+First commit of autogen.sh
+
+------------------------------------------------------------------------
+r1 | joe | 2005-06-13 09:36:47 +1000 (Mon, 13 Jun 2005) | 1 line
+
+Initial import of gnumch
+------------------------------------------------------------------------

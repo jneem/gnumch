@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.00000px"
+   height="240.00000px"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/home/joe/programming/gnumch/data/animation/pics"
+   sodipodi:docname="muncher__walking_up_00.svg"
+   inkscape:export-filename="/home/joe/programming/gnumch/data/animation/pics/muncher__walking_up_00.png"
+   inkscape:export-xdpi="36.000000"
+   inkscape:export-ydpi="36.000000">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0000000"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9833333"
+     inkscape:cx="160.00000"
+     inkscape:cy="120.00000"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showborder="true"
+     borderlayer="top"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     showguides="true"
+     gridspacingx="4.0000000px"
+     gridspacingy="4.0000000px"
+     gridtolerance="2.0000000px"
+     inkscape:window-width="1313"
+     inkscape:window-height="891"
+     inkscape:window-x="0"
+     inkscape:window-y="30" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.5000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 16.000000,40.000000 L 256.00000,40.000000 L 256.00000,104.00000 L 80.000000,104.00000 L 80.000000,72.000000 L 48.000000,72.000000 L 48.000000,128.00000 L 280.00000,128.00000 L 280.00000,80.000000 L 312.00000,80.000000 L 312.00000,160.00000 L 16.000000,160.00000 L 16.000000,40.000000 z "
+       id="path1061"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 150.00000,160.00000 L 134.00000,160.00000 L 154.00000,188.00000 L 134.00000,212.00000 L 134.00000,232.00000 L 178.00000,232.00000 L 178.00000,212.00000 L 150.00000,212.00000 L 166.00000,188.00000 L 150.00000,160.00000 z "
+       id="path1064"
+       sodipodi:nodetypes="czcccccccs" />
+    <path
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000"
+       d="M 178.00000,160.00000 L 162.00000,160.00000 L 182.00000,188.00000 L 162.00000,212.00000 L 162.00000,232.00000 L 206.00000,232.00000 L 206.00000,212.00000 L 178.00000,212.00000 L 194.00000,188.00000 L 178.00000,160.00000 z "
+       id="path2091"
+       sodipodi:nodetypes="czcccccccs" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 2"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1310"
+       d="M 59.999997,40.000000 L 260.00000,40.000000 L 260.00000,104.00000 L 59.999997,104.00000 L 59.999997,40.000000 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="path1314"
+       d="M 280.00000,80.000000 L 280.00000,128.00000 L 39.999997,128.00000 L 39.999997,80.000000 L 19.999997,80.000000 L 19.999997,160.00000 L 300.00000,160.00000 L 300.00000,80.000000 L 280.00000,80.000000 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path3570"
+       d="M 116.00000,39.999998 L 116.00000,11.999996 L 148.00000,11.999996 L 148.00000,39.999998 L 116.00000,39.999998 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.9999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path1327"
+       d="M 168.00000,39.999998 L 168.00000,11.999996 L 200.00000,11.999996 L 200.00000,39.999998 L 168.00000,39.999998 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.9999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:nodetypes="ccccccccszc"
+       id="path10522"
+       d="M 174.00000,184.00000 L 174.00000,196.00000 L 164.00000,196.00000 L 164.00000,216.00000 L 198.00000,216.00000 L 198.00000,196.00000 L 186.00000,196.00000 L 186.00000,184.00000 L 182.00000,160.00000 L 170.00000,160.00000 L 174.00000,184.00000 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    <path
+       sodipodi:nodetypes="czccccccccs"
+       id="path10520"
+       d="M 152.00000,160.00000 L 136.00000,160.00000 L 136.00000,180.00000 L 140.00000,200.00000 L 128.00000,200.00000 L 128.00000,220.00000 L 164.00000,220.00000 L 164.00000,200.00000 L 152.00000,200.00000 L 148.00000,180.00000 L 152.00000,160.00000 z "
+       style="fill:#00f500;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+  </g>
+</svg>

@@ -1,0 +1,459 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Joe Neeman
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: spuzzzzzzz@gmail.com\n"
+"POT-Creation-Date: 2006-05-05 07:23+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/game/menus/MultiPlayMenu.cpp:34
+msgid "Target score"
+msgstr ""
+
+#: src/game/menus/MultiPlayMenu.cpp:56 src/game/menus/SinglePlayMenu.cpp:45
+#: src/game/menus/SinglePlayMenu.cpp:70 src/game/menus/SinglePlayMenu.cpp:92
+msgid "Choose a level"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:64
+msgid "Single Player"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:65
+msgid "Multi Player"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:66 src/game/menus/InGameMenu.cpp:71
+msgid "Options"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:67 src/game/menus/InGameMenu.cpp:72
+msgid "Credits"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:68 src/game/menus/InGameMenu.cpp:73
+msgid "High Scores"
+msgstr ""
+
+#: src/game/menus/MainMenu.cpp:69 src/game/menus/InGameMenu.cpp:75
+msgid "Quit"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:45
+msgid "Player 1"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:46
+msgid "Player 2"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:105
+msgid "Press a key"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:153 src/game/menus/OptionsMenu.cpp:183
+#: src/game/menus/OptionsMenu.cpp:189 src/game/menus/OptionsMenu.cpp:206
+#: src/game/menus/OptionsMenu.cpp:209 src/game/menus/OptionsMenu.cpp:286
+#: src/game/Level.cpp:329 src/game/Level.cpp:346 src/game/Level.cpp:347
+#: src/game/Level.cpp:350 src/game/Level.cpp:359
+msgid "On"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:153 src/game/menus/OptionsMenu.cpp:183
+#: src/game/menus/OptionsMenu.cpp:207 src/game/menus/OptionsMenu.cpp:286
+#: src/game/Level.cpp:329 src/game/Level.cpp:350
+msgid "Off"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:224 src/game/menus/OptionsMenu.cpp:258
+msgid "Stereo"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:224 src/game/menus/OptionsMenu.cpp:258
+msgid "Mono"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:225
+msgid "Sound effects volume"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:226
+msgid "Music volume"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:227
+msgid "Sample rate"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:228
+msgid "# Channels"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:283
+msgid "Screen resolution"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:284
+msgid "Colour depth"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:285
+msgid "Fullscreen"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:314
+msgid "Number of Troggles"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:315
+msgid "Troggle speed"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:316
+msgid "Game speed"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:317
+msgid "Board width"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:318
+msgid "Board height"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:325
+msgid "Turbo"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:326
+msgid "Faster"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:327
+msgid "Fast"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:328
+msgid "Normal"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:329
+msgid "Slow"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:330
+msgid "Slower"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:331
+msgid "Sluggish"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:384
+msgid "Gameplay"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:385
+msgid "Troggles"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:420 src/game/Level.cpp:237
+msgid "Apply"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:421 src/game/Level.cpp:238
+msgid "Cancel"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:422
+msgid "Graphics"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:423
+msgid "Sound"
+msgstr ""
+
+#: src/game/menus/OptionsMenu.cpp:424
+msgid "Input"
+msgstr ""
+
+#: src/game/menus/CreditsMenu.cpp:22 src/game/menus/ScoresMenu.cpp:26
+#: src/game/menus/SinglePlayMenu.cpp:79
+msgid "Back"
+msgstr ""
+
+#: src/game/menus/CreditsMenu.cpp:24
+msgid ""
+"This program was written by Joe Neeman [http://spuzz.net].\n"
+"\n"
+"Thanks to Klaus Ade Johnstad for the Norwegian translation.\n"
+"\n"
+"Libraries used in this project include:\n"
+"libSDL [http://libsdl.org]\n"
+"SDL_ttf [http://jcatki.no-ip.org/SDL_ttf]\n"
+"SDL_image [http://jcatki.no-ip.org/SDL_image]\n"
+"SDL_gfx [http://www.ferzkopp.net/~aschiffler/Software/SDL_gfx-2.0]"
+msgstr ""
+
+#: src/game/menus/ScoresMenu.cpp:42
+msgid "No high scores yet"
+msgstr ""
+
+#: src/game/menus/ScoresMenu.cpp:43
+msgid "9999999999"
+msgstr ""
+
+#: src/game/menus/InGameMenu.cpp:70
+msgid "Resume Game"
+msgstr ""
+
+#: src/game/menus/InGameMenu.cpp:74
+msgid "Stop Game"
+msgstr ""
+
+#: src/game/menus/Menus.cpp:33
+msgid ""
+"Thank you for playing Gnumch.\n"
+"Make sure to check for updates regularly at http://spuzz.net\n"
+msgstr ""
+
+#: src/game/menus/SinglePlayMenu.cpp:80
+msgid "Play"
+msgstr ""
+
+#: src/game/menus/SinglePlayMenu.cpp:81
+msgid "Configure Level"
+msgstr ""
+
+#: src/game/menus/SinglePlayMenu.cpp:83 src/game/menus/SinglePlayMenu.cpp:93
+msgid "No description found."
+msgstr ""
+
+#: src/game/menus/SinglePlayMenu.cpp:138
+msgid "Accept"
+msgstr ""
+
+#: src/game/menus/SinglePlayMenu.cpp:143
+#, c-format
+msgid ""
+"Congratulations! Your score of %d has\n"
+"made the high scores list. Please enter\n"
+"your name below."
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:56 src/game/SinglePlayerGame.cpp:57
+msgid "Lives = "
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:73 src/game/SinglePlayerGame.cpp:74
+msgid "Score = "
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:158
+msgid ""
+"You were eaten by a Troggle.\n"
+"Press <Return> to continue."
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:169
+msgid "Press <Return> to continue."
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:216
+msgid "Ready..."
+msgstr ""
+
+#: src/game/SinglePlayerGame.cpp:222
+msgid "GO!"
+msgstr ""
+
+#: src/game/PrimeLevel.cpp:51
+msgid "Oops! 1 is not a prime number."
+msgstr ""
+
+#: src/game/PrimeLevel.cpp:59
+#, c-format
+msgid "Oops! %d is not a prime number.\n"
+msgstr ""
+
+#: src/game/PrimeLevel.cpp:61
+#, c-format
+msgid " is a factor of %d"
+msgid_plural " are factors of %d."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/game/PrimeLevel.cpp:92
+#, c-format
+msgid "Primes less than %d"
+msgstr ""
+
+#: src/game/Level.cpp:112
+msgid " and "
+msgstr ""
+
+#: src/game/Level.cpp:239
+msgid "Minimum level"
+msgstr ""
+
+#: src/game/Level.cpp:240
+msgid "Maximum level"
+msgstr ""
+
+#: src/game/Level.cpp:311
+msgid "Maximum subtractor"
+msgstr ""
+
+#: src/game/Level.cpp:312
+msgid "Maximum divisor"
+msgstr ""
+
+#: src/game/Level.cpp:323
+msgid "Addition"
+msgstr ""
+
+#: src/game/Level.cpp:324
+msgid "Subtraction"
+msgstr ""
+
+#: src/game/Level.cpp:325
+msgid "Multiplication"
+msgstr ""
+
+#: src/game/Level.cpp:326
+msgid "Division"
+msgstr ""
+
+#: src/game/Gnumch.cpp:108 src/game/ConfigFile.cpp:217
+#, c-format
+msgid "Fatal error: "
+msgstr ""
+
+#: src/game/Gnumch.cpp:111 src/game/ConfigFile.cpp:220
+#, c-format
+msgid ""
+"Gnumch has encountered a fatal error and needs to close. If you don't know "
+"what caused this error, please submit a bug report to spuzzzzzzz@gmail.com\n"
+msgstr ""
+
+#: src/game/MultipleLevel.cpp:94
+msgid "Oops! %X is not a multiple of %Y.\n"
+msgstr ""
+
+#: src/game/MultipleLevel.cpp:96
+msgid "The only factor of 1 is itself."
+msgstr ""
+
+#: src/game/MultipleLevel.cpp:98
+#, c-format
+msgid "The factors of %X are "
+msgstr ""
+
+#: src/game/MultipleLevel.cpp:126
+#, c-format
+msgid "Multiples of %d"
+msgstr ""
+
+#: src/game/MultipleLevel.cpp:132
+msgid "Maximum multiplier"
+msgstr ""
+
+#: src/game/FactorLevel.cpp:96
+msgid ""
+"Oops! %X is not a factor of %Y.\n"
+"Multiples of %X include "
+msgstr ""
+
+#: src/game/FactorLevel.cpp:128
+#, c-format
+msgid "Factors of %d"
+msgstr ""
+
+#: src/game/FactorLevel.cpp:158
+msgid "Minimum number of factors"
+msgstr ""
+
+#: src/game/EqualityLevel.cpp:123 src/game/EqualityLevel.cpp:171
+msgid "Oops! %X = %Y"
+msgstr ""
+
+#: src/game/EqualityLevel.cpp:139
+#, c-format
+msgid "Equal to %d"
+msgstr ""
+
+#: src/game/EqualityLevel.cpp:185
+#, c-format
+msgid "Not equal to %d"
+msgstr ""
+
+#: src/game/EqualityLevel.cpp:190
+msgid "Maximum error"
+msgstr ""
+
+#: src/game/PrimeLevel.h:37
+msgid "Prime Numbers"
+msgstr ""
+
+#: src/game/PrimeLevel.h:39
+msgid ""
+"Munch all the prime numbers on the board.\n"
+"A prime number is a number that has no factors\n"
+"except for itself and 1. Also, 1 is not prime."
+msgstr ""
+
+#: src/game/FactorLevel.h:56
+msgid "Factors"
+msgstr ""
+
+#: src/game/FactorLevel.h:58
+msgid ""
+"Munch all the factors of the number at the top of\n"
+"the screen. A factor of a number is another number\n"
+"that divides it evenly. For example, the factors of\n"
+"8 are 1, 2, 4, and 8."
+msgstr ""
+
+#: src/game/MultipleLevel.h:53
+msgid "Multiples"
+msgstr ""
+
+#: src/game/MultipleLevel.h:55
+msgid ""
+"Munch all the multiples of the number at the top\n"
+"of the screen.\n"
+"Examples:\n"
+"The multiples of 2 include 2, 4, 6 and 8.\n"
+"The multiples of 5 include 5, 10 and 15."
+msgstr ""
+
+#: src/game/EqualityLevel.h:59
+msgid "Equality"
+msgstr ""
+
+#: src/game/EqualityLevel.h:61
+msgid ""
+"Munch all the expressions that are equal to the\n"
+"number at the top of the screen."
+msgstr ""
+
+#: src/game/EqualityLevel.h:73
+msgid "Inequality"
+msgstr ""
+
+#: src/game/EqualityLevel.h:75
+msgid ""
+"Munch all the expressions that are not equal to\n"
+"the number at the top of the screen."
+msgstr ""

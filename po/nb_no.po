@@ -1,0 +1,248 @@
+# translation of nb_NO.po to Norwegian Bokmål <
+# Klaus Ade Johnstad <klaus@skolelinux.no>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: nb_NO\n"
+"PO-Revision-Date: 2005-02-19 13:41+0100\n"
+"Last-Translator: Klaus Ade Johnstad <klaus@skolelinux.no>\n"
+"Language-Team: Norwegian Bokmål < <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.9.1\n"
+
+# This is a translation file for the gnumch project.
+# Copyright (C) 2005 Joe Neeman
+# This file is distributed under the GNU GPL, version 2 or later.
+# Joe Neeman <spuzzzzzzz@gmail.com>, 2005.
+#
+# ingame stuff
+#: game/Level.cpp:7
+msgid "%0 and %1"
+msgstr "%0 og %1"
+
+msgid "%0, %1 and %2"
+msgstr "%0, %1 og %2"
+
+msgid "%0, %1, %2 and %3"
+msgstr "%0, %1, %2 og %3"
+
+msgid "%0, %1, %2, %3 and %4"
+msgstr "%0, %1, %2, %3 og %4"
+
+msgid "%0, %1, %2, %3, %4 and %5"
+msgstr "%0, %1, %2, %3, %4 og %5"
+
+msgid "%0, %1, %2, %3, %4, %5 and %6"
+msgstr "%0, %1, %2, %3, %4, %5 og %6"
+
+#: data/levels/equality.lvl:2
+msgid "Munch all the numerical expressions that are equal to the given number."
+msgstr "Munch alle numeriske uttrykk som er lik det oppgitte tallet."
+
+#: data/levels/equality.lvl:10
+msgid "Equal to %n"
+msgstr "Lik med %n"
+
+#: data/levels/factors.lvl:2
+msgid "Munch all the factors of the given number."
+msgstr "Munch alle faktorene til tallet."
+
+#: data/levels/factors.lvl:6
+msgid "Multiples of %t include %e."
+msgstr "Multipler av %t inkluderer %e."
+
+#: data/levels/factors.lvl:10
+msgid "Factors of %n"
+msgstr "Faktorene til %n"
+
+#: data/levels/prime.lvl:2
+msgid "Munch all the prime numbers."
+msgstr "Munch alle primtallene."
+
+#: data/levels/prime.lvl:6
+msgid "%t is divisible by %e."
+msgstr "%t er delelig på %e."
+
+#: data/levels/prime.lvl:10
+msgid "Primes less than %n"
+msgstr "Primtall mindre enn %n"
+
+#: game/Muncher.cpp:40
+msgid ""
+"You got eaten by a Troggle.\n"
+"Press <Return> to continue."
+msgstr ""
+"Du ble spist opp av en Troggle.\n"
+"Trykk <Return> for å fortsette."
+
+#: game/Muncher.cpp:71
+msgid "You ate a bad number.\n"
+msgstr "Du spiste feil tall.\n"
+
+#: game/Muncher.cpp:74
+msgid "Press <Return> to continue."
+msgstr "Trykk <Enter> for å fortsette."
+
+#: game/Game.cpp:295
+msgid "Lives = "
+msgstr "Liv = "
+
+#: game/Game.cpp:305
+msgid "Score = "
+msgstr "Poengsum = "
+
+# menu buttons
+#: game/Menus.cpp:26
+msgid ""
+"Thank you for playing Gnumch.\n"
+"Make sure to check for updates regularly at http://spuzzzzzzz.c-f-h.net\n"
+msgstr ""
+"Takk for at du spilte Gnumch.\n"
+"Sjekk jevnlig for oppdateringer på http://spuzzzzzzz.c-f-h.net\n"
+
+#: game/Menus.cpp:64
+msgid "Choose a level"
+msgstr "Velg et nivå"
+
+#: game/Menus.cpp:92
+msgid "Back"
+msgstr "Tilbake"
+
+#: game/Menus.cpp:93
+msgid "Play"
+msgstr "Spill"
+
+#: game/Menus.cpp:94
+msgid "No description found."
+msgstr "Ingen beskrivelse funnet"
+
+#: game/Menus.cpp:159
+msgid "Resume game"
+msgstr "Fortsett spillet"
+
+#: game/Menus.cpp:160
+msgid "Options"
+msgstr "Valg"
+
+#: game/Menus.cpp:161
+msgid "Stop game"
+msgstr "Stopp spillet"
+
+#: game/Menus.cpp:162
+msgid "Quit"
+msgstr "Avslutt"
+
+#: game/Menus.cpp:220
+msgid "On"
+msgstr "På"
+
+#: game/Menus.cpp:220
+msgid "Off"
+msgstr "Av"
+
+#: game/Menus.cpp:317
+msgid "Screen resolution"
+msgstr "Skjermoppløsning"
+
+#: game/Menus.cpp:319
+msgid "Colour depth"
+msgstr "Fargedybde"
+
+#: game/Menus.cpp:321
+msgid "Fullscreen"
+msgstr "Fullskjerm"
+
+#: game/Menus.cpp:324
+msgid "Apply"
+msgstr "Bruk"
+
+#: game/Menus.cpp:325
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: game/Menus.cpp:327
+msgid "Graphics Options"
+msgstr "Grafikkvalg"
+
+#: game/Menus.cpp:328
+msgid "Game Options"
+msgstr "Spillvalg"
+
+#: game/Menus.cpp:343
+msgid "Turbo"
+msgstr "Turbo"
+
+msgid "Faster"
+msgstr "Raskere"
+
+msgid "Fast"
+msgstr "Rask"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Slow"
+msgstr "Sakte"
+
+msgid "Slower"
+msgstr "Saktere"
+
+msgid "Sluggish"
+msgstr "Langsom"
+
+#: game/Menus.cpp:351
+msgid "Number of Troggles"
+msgstr "Antall Troggles"
+
+msgid "Troggle speed"
+msgstr "Farten til Trogglene"
+
+msgid "Game speed"
+msgstr "Spillhastighet"
+
+msgid "Board height"
+msgstr "Høyden på spillbrettet"
+
+msgid "Board width"
+msgstr "Bredden på spillbrettet"
+
+#: game/Menus.cpp:435
+msgid ""
+"This program was written by Joe Neeman\n"
+"[http://spuzzzzzzz.c-f-h.net].\n"
+" \n"
+"Libraries used in this project include:\n"
+"libSDL [http://libsdl.org]\n"
+"SDL_ttf [http://jcatki.no-ip.org/SDL_ttf]\n"
+"SDL_image [http://jcatki.no-ip.org/SDL_image]\n"
+"SDL_gfx [http://www.ferzkopp.net/~aschiffler/Software/SDL_gfx-2.0]"
+msgstr ""
+"Dette programmet er skrevet av Joe Neeman\n"
+"[http://spuzzzzzzz.c-f-h.net].\n"
+" \n"
+"Biblioteker brukt i dette programmet inkluderer:\n"
+"libSDL [http://libsdl.org]\n"
+"SDL_ttf [http://jcatki.no-ip.org/SDL_ttf]\n"
+"SDL_image [http://jcatki.no-ip.org/SDL_image]\n"
+"SDL_gfx [http://www.ferzkopp.net/~aschiffler/Software/SDL_gfx-2.0]"
+
+#: game/Menus.cpp:464
+msgid "Credits"
+msgstr "Bidragsytere"
+
+# Error messages
+#: game/Gnumch.cpp:59
+msgid "Fatal error: "
+msgstr "Alvorlig feil: "
+
+#: game/Gnumch.cpp:62
+msgid ""
+"Gnumch has encountered a fatal error and needs to close. If you don't know "
+"what caused this error, please submit a bug report to spuzzzzzzz@gmail.com\n"
+msgstr ""
+"Det har skjedd en uopprettelig feil i Gnumch. Hvis du ikke vet hvorfor dette "
+"har skjedd, så rapporter dette til spuzzzzzzz@gmail.com\n"
+
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15"
+   name=""
+   committed-date="2005-06-21T01:42:05.474549Z"
+   url="svn://localhost/gnumch/trunk/data/fonts"
+   last-author="joe"
+   kind="dir"
+   uuid="f53d9e64-60f9-0310-93e7-e03f4b91a863"
+   revision="90"/>
+<entry
+   committed-rev="1"
+   name="URWGothicL-Demi.ttf"
+   text-time="2005-06-15T23:06:00.000000Z"
+   committed-date="2005-06-12T23:36:47.182941Z"
+   checksum="b6bf34d3cd375a6784c291d649b45417"
+   last-author="joe"
+   kind="file"
+   prop-time="2005-06-15T23:06:00.000000Z"/>
+<entry
+   committed-rev="1"
+   name="URWPalladioL-Roma.ttf"
+   text-time="2005-06-15T23:06:00.000000Z"
+   committed-date="2005-06-12T23:36:47.182941Z"
+   checksum="a1019ef48ef41256ec1cbb53f59c7e08"
+   last-author="joe"
+   kind="file"
+   prop-time="2005-06-15T23:06:00.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.am"
+   text-time="2005-06-15T23:06:00.000000Z"
+   committed-date="2005-06-12T23:36:47.182941Z"
+   checksum="e04e2f0a87bd85a0f22ab84e8c78a861"
+   last-author="joe"
+   kind="file"
+   prop-time="2005-06-15T23:06:00.000000Z"/>
+</wc-entries>
