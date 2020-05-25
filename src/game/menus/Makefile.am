@@ -10,4 +10,4 @@ libGnumchMenus_a_SOURCES = \
 	ScoresMenu.cpp ScoresMenu.h \
 	InGameMenu.cpp InGameMenu.h
 
-INCLUDES = -I.. -I../../gui
+AM_CPPFLAGS = -I.. -I../../gui

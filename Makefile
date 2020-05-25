@@ -90,7 +90,7 @@ host_triplet = x86_64-unknown-linux-gnu
 target_triplet = x86_64-unknown-linux-gnu
 subdir = .
 ACLOCAL_M4 = $(top_srcdir)/aclocal.m4
-am__aclocal_m4_deps = $(top_srcdir)/configure.in
+am__aclocal_m4_deps = $(top_srcdir)/configure.ac
 am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \
 	$(ACLOCAL_M4)
 DIST_COMMON = $(srcdir)/Makefile.am $(top_srcdir)/configure \
@@ -160,8 +160,8 @@ CSCOPE = cscope
 DIST_SUBDIRS = $(SUBDIRS)
 am__DIST_COMMON = $(srcdir)/Makefile.in $(srcdir)/config.h.in \
 	ABOUT-NLS AUTHORS COPYING ChangeLog INSTALL NEWS README \
-	compile config.guess config.rpath config.sub depcomp \
-	install-sh missing mkinstalldirs
+	compile config.guess config.rpath config.sub install-sh \
+	missing mkinstalldirs
 DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)
 distdir = $(PACKAGE)-$(VERSION)
 top_distdir = $(distdir)
@@ -283,10 +283,10 @@ VERSION = 0.2.0
 XGETTEXT = /usr/bin/xgettext
 XGETTEXT_015 = /usr/bin/xgettext
 XGETTEXT_EXTRA_OPTIONS = 
-abs_builddir = /home/jneeman/Downloads/gnumch
-abs_srcdir = /home/jneeman/Downloads/gnumch
-abs_top_builddir = /home/jneeman/Downloads/gnumch
-abs_top_srcdir = /home/jneeman/Downloads/gnumch
+abs_builddir = /home/jneeman/programming/gnumch
+abs_srcdir = /home/jneeman/programming/gnumch
+abs_top_builddir = /home/jneeman/programming/gnumch
+abs_top_srcdir = /home/jneeman/programming/gnumch
 ac_ct_CC = gcc
 ac_ct_CXX = g++
 am__include = include
@@ -314,7 +314,7 @@ host_vendor = unknown
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /home/jneeman/Downloads/gnumch/install-sh
+install_sh = ${SHELL} /home/jneeman/programming/gnumch/install-sh
 intltool__v_merge_options_ = $(intltool__v_merge_options_$(AM_DEFAULT_VERBOSITY))
 intltool__v_merge_options_0 = -q
 libdir = ${exec_prefix}/lib

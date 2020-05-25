@@ -91,7 +91,7 @@ host_triplet = @host@
 target_triplet = @target@
 subdir = src/gui
 ACLOCAL_M4 = $(top_srcdir)/aclocal.m4
-am__aclocal_m4_deps = $(top_srcdir)/configure.in
+am__aclocal_m4_deps = $(top_srcdir)/configure.ac
 am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \
 	$(ACLOCAL_M4)
 DIST_COMMON = $(srcdir)/Makefile.am $(am__DIST_COMMON)
@@ -324,7 +324,7 @@ top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 noinst_LIBRARIES = libGui.a
 libGui_a_SOURCES = Widget.cpp Widget.h Button.cpp Button.h Container.cpp Container.h Label.cpp Label.h TextField.cpp TextField.h Menu.cpp Menu.h Spinner.cpp Spinner.h libGui.h
-INCLUDES = -I../game/
+AM_CPPFLAGS = -I../game/
 all: all-am
 
 .SUFFIXES:

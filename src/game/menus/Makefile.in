@@ -91,7 +91,7 @@ host_triplet = @host@
 target_triplet = @target@
 subdir = src/game/menus
 ACLOCAL_M4 = $(top_srcdir)/aclocal.m4
-am__aclocal_m4_deps = $(top_srcdir)/configure.in
+am__aclocal_m4_deps = $(top_srcdir)/configure.ac
 am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \
 	$(ACLOCAL_M4)
 DIST_COMMON = $(srcdir)/Makefile.am $(am__DIST_COMMON)
@@ -335,7 +335,7 @@ libGnumchMenus_a_SOURCES = \
 	ScoresMenu.cpp ScoresMenu.h \
 	InGameMenu.cpp InGameMenu.h
 
-INCLUDES = -I.. -I../../gui
+AM_CPPFLAGS = -I.. -I../../gui
 all: all-am
 
 .SUFFIXES:

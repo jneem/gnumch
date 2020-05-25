@@ -28,7 +28,7 @@ LEVEL_SRC = Level.h Level.cpp \
 bin_PROGRAMS = gnumch
 gnumch_SOURCES = ${PLAYER_SRC} ${GAME_SRC} ${LEVEL_SRC} ${OTHER_SRC}
 gnumch_LDADD = menus/libGnumchMenus.a ../gui/libGui.a
-INCLUDES = -I../gui/
+AM_CPPFLAGS = -I../gui/
 
 localedir=$(datadir)/locale
 DEFS = -DLOCALEDIR=\"$(localedir)\" @DEFS@
